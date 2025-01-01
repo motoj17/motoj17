@@ -1,4 +1,4 @@
-- Hi, I’m @motoj17
-- I’m interested in computers and technology.
-- I’m currently learning html, css, python.
+- Hi, I’m motoj!
+- I’m interested in technology.
+- I’m currently learning html, css, javascript
 - Fun fact: I live on Earth.
