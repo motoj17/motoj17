@@ -1,4 +1,4 @@
 - Hi, I’m motoj!
 - I’m interested in technology.
-- I’m currently learning html, javascript and python.
+- I’m currently learning python.
 - Fun fact: I live on Earth.
